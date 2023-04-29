@@ -1,8 +1,7 @@
 # Paper
 KCC 2023에 제출하여 심사를 받고 있습니다.
 
-# Moral_Emotion_Dataset
-
+# KOME(Korean Online Moral Emotion)
 KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정 분류로 편집한 데이터셋입니다.
 해당 데이터셋을 KcELECTRA 훈련한 모델도 함께 공개합니다.
 
@@ -15,6 +14,8 @@ KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정 분류�
 |  | Self-Conscious | shame, guilt, embarrassment |
 | 비도덕감정 | 비도덕감정 | care, comport, pride, anxiety, boredom, exhaustion, fear, gessepany, despair, laziness, reluctant, sorrow, fed up |
 |  | 중립 | arrogance, resolute, no-emotion,realization, surprise |
+
+KOME.parquet 파일을 통해 데이터를 확인할 수 있습니다.
 
 ### Model 
 도덕감정 분류 모델을 만들기 위해 KcELECTRA  사전학습 모델을 사용하여, 도덕감정 데이터셋을 학습하였습니다. 
