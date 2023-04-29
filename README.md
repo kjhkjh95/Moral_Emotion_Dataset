@@ -6,6 +6,11 @@ KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정(Moral E
 해당 데이터셋을 KcELECTRA 훈련한 모델도 함께 공개합니다.
 
 ### Dataset
+- 데이터 갯수: 49,663
+
+- 라벨 방식: 멀티 라벨
+
+- 도덕 감정 분류
 | 감정 유형 | 세부 유형 | 감정 |
 | --- | --- | --- |
 | 도덕감정 | Other-Condemning | anger, contempt, disgust |
