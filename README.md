@@ -17,7 +17,7 @@ KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정(Moral E
 | 비도덕감정 | 비도덕감정 | care, comport, pride, anxiety, boredom, exhaustion, fear, gessepany, despair, laziness, reluctant, sorrow, fed up |
 |  | 중립 | arrogance, resolute, no-emotion,realization, surprise |
 
-- 데이터 갯수: 49,663
+- 데이터 개수: 49,663
 
 KOME.parquet 파일을 통해 데이터를 확인할 수 있습니다.
 
