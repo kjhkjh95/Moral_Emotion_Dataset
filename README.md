@@ -6,8 +6,6 @@ KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정(Moral E
 해당 데이터셋을 KcELECTRA 훈련한 모델도 함께 공개합니다.
 
 ### Dataset
-- 데이터 갯수: 49,663
-- 라벨 방식: 멀티 라벨
 - 도덕 감정 분류
 
 | 감정 유형 | 세부 유형 | 감정 |
@@ -18,6 +16,9 @@ KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정(Moral E
 |  | Self-Conscious | shame, guilt, embarrassment |
 | 비도덕감정 | 비도덕감정 | care, comport, pride, anxiety, boredom, exhaustion, fear, gessepany, despair, laziness, reluctant, sorrow, fed up |
 |  | 중립 | arrogance, resolute, no-emotion,realization, surprise |
+
+- 데이터 갯수: 49,663
+- 라벨 방식: 멀티 라벨
 
 KOME.parquet 파일을 통해 데이터를 확인할 수 있습니다.
 
