@@ -2,7 +2,7 @@
 KCC 2023에 제출하여 심사를 받고 있습니다.
 
 # KOME(Korean Online Moral Emotion)
-KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정(Moral Emotion) 분류로 편집한 데이터셋입니다.
+KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정(Moral Emotion) 분류로 편집한 멀티라벨(Multi-Labels) 데이터셋입니다.
 해당 데이터셋을 KcELECTRA 훈련한 모델도 함께 공개합니다.
 
 ### Dataset
@@ -18,7 +18,6 @@ KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정(Moral E
 |  | 중립 | arrogance, resolute, no-emotion,realization, surprise |
 
 - 데이터 갯수: 49,663
-- 라벨 방식: 멀티 라벨
 
 KOME.parquet 파일을 통해 데이터를 확인할 수 있습니다.
 
