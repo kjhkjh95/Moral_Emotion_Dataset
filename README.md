@@ -12,8 +12,7 @@ KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정 분류�
 | 도덕감정 | Other-Suffering | compassion |
 | 도덕감정 | Self-Conscious | shame, guilt, embarrassment |
 | 비도덕감정 | 비도덕감정 | care, comport, pride, anxiety, boredom, exhaustion, fear, gessepany, despair, laziness, reluctant, sorrow, fed up |
-| 비도덕감정 | 중립 | arrogance, resolute |
-| 비도덕감정 | no-emotion | realization, surprise |
+| 비도덕감정 | 중립 | arrogance, resolute, no-emotion,realization, surprise |
 
 ### Model 
 
