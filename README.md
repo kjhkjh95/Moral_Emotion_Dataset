@@ -1,5 +1,7 @@
+# Paper
+KCC 2023에 제출하여 심사를 받고 있습니다.
+
 # Moral_Emotion_Dataset
-KCC 2023에 제출하여 심사를 받고 있는 데이터와 모델입니다.
 
 KOTE (Korean Online That-gul Emotions) Dataset을, Haidt의 도덕감정 분류로 편집한 데이터셋입니다.
 해당 데이터셋을 KcELECTRA 훈련한 모델도 함께 공개합니다.
