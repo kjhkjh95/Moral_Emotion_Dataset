@@ -1,5 +1,5 @@
 # Paper
-KCC 2023에 oral session에 accept 되었습니다. 출간되는 대로 paper link를 달아놓겟습니다 :)
+KCC 2023에 oral session에 accept 되었습니다. 출간되는 대로 paper link를 달아놓겠습니다 :)
 
 # KOME(Korean Online Moral Emotion)
 KOTE (Korean Online That-gul Emotions) 데이터셋을, Haidt의 도덕감정(Moral Emotion) 분류로 편집한 멀티라벨(Multi-Labels) 데이터셋입니다.
