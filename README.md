@@ -10,12 +10,12 @@ KOTE (Korean Online That-gul Emotions) 데이터셋을, Haidt의 도덕감정(Mo
 
 | 감정 유형 | 세부 유형 | 감정 |
 | --- | --- | --- |
-| 도덕감정 | Other-Condemning | anger, contempt, disgust |
+| Moral Emotion | Other-Condemning | anger, contempt, disgust |
 |  | Other-Praising | admiration, gratitude |
 |  | Other-Suffering | compassion |
 |  | Self-Conscious | shame, guilt, embarrassment |
-| 비도덕감정 | 비도덕감정 | care, comport, pride, anxiety, boredom, exhaustion, fear, gessepany, despair, laziness, reluctant, sorrow, fed up |
-|  | 중립 | arrogance, resolute, no-emotion,realization, surprise |
+| Nonmoral Emotion | Emotional,but Nonmoral Emotion | care, comport, pride, anxiety, boredom, exhaustion, fear, gessepany, despair, laziness, reluctant, sorrow, fed up |
+|  | Neutral | arrogance, resolute, no-emotion,realization, surprise |
 
 - 데이터 개수: 49,663
 
